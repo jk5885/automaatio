@@ -10,4 +10,4 @@ def html(body):
     <body>
     Content goes here.
     </body>
-    </html>:
+    </html>
